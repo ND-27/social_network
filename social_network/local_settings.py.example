@@ -1,0 +1,12 @@
+# SECURITY WARNING: don't run with debug turned on in production!
+
+import os
+
+DEBUG = True or False
+
+ALLOWED_HOSTS = []
+
+DB_NAME = 'your db name'
+DB_HOST = 'your host address'
+DB_USER = 'your db user'
+DB_PASS = 'your db password'
